@@ -124,6 +124,9 @@ const styles = StyleSheet.create({
 
 // sound list
 const soundList = [
+    "m3egly_many",
+    "m3egly_many",
+    "m3egly_many",
     "sodis_001",
     "sodis_114",
     "sodis_113",
@@ -131,6 +134,8 @@ const soundList = [
     "sodis_111",
     "sodis_110",
     "sodis_109",
+    "m3egly_many",
+    "m3egly_many",
     "m3egly_many",
     "shreem_108",
     "shreem_107",
@@ -140,8 +145,10 @@ const soundList = [
     "shreem_103",
     "shreem_102",
     "shreem_101",
-    "m3egly_100",
     "m3egly_many",
+    "m3egly_many",
+    "m3egly_many",
+    "m3egly_100",
     "m3egly_099",
     "m3egly_098",
     "m3egly_097",
@@ -164,6 +171,8 @@ const soundList = [
     "m3egly_080",
     "m3egly_079",
     "m3egly_078",
+    "m3egly_many",
+    "m3egly_many",
     "m3egly_many",
 ]
 

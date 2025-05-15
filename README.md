@@ -30,3 +30,7 @@ Simple react native Quran Kareem player for elders
 ## Audio Files Source
 
 -   [Mp3 Quran](https://www.mp3quran.net/ar)
+
+## Icon
+
+Icon designed by Atif Arshad https://www.flaticon.com/free-icon/book_13534590?related_id=13534590
