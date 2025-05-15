@@ -36,3 +36,7 @@ Simple react native Quran Kareem player for elders
 ## Icon
 
 Icon designed by Atif Arshad https://www.flaticon.com/free-icon/book_13534590?related_id=13534590
+
+## License
+
+Source code and application are free for personal use and commercial use and no attribution required
