@@ -2,6 +2,10 @@
 
 Simple react native Quran Kareem player for elders
 
+# Download
+
+apk file in [apk](./app-release.apk)
+
 ## Features
 
 -   [x] One click play/pause
