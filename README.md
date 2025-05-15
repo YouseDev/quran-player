@@ -11,11 +11,13 @@ Simple react native Quran Kareem player for elders
 -   [ ] Distinct color for play button and pause button
 -   [ ] Auto play different surah when one is finished
 -   [ ] Plays in the background
+-   [ ] Sleeps when device not used in x minutes
+-   [ ] No splash screen very fast open
 
 ## Desgin
 
 -   Extreamly simple design
--   Black background and splashscreen
+-   Black background
 -   Large full button Green for playing with play icon
 -   Large full button Red for stopping when playing with stop icon
 
